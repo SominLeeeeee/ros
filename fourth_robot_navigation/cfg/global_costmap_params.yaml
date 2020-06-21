@@ -1,0 +1,10 @@
+global_costmap:
+  global_frame: /map
+  #robot_base_frame: base_link
+  robot_base_frame: base_footprint
+  update_frequency: 10.0
+  publish_frequency: 10.0
+  transform_tolerance: 0.5 # tf관계를 얼마만에 한번 확인할건지
+
+  static_map: true # 정적인 맵 사용할 것 (global path : statis)
+ 
