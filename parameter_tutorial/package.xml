@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>parameter_tutorials</name>
+  <version>0.0.0</version>
+  <description>The parameter_tutorials package</description>
+
+  <maintainer email="somin@todo.todo">somin</maintainer>
+
+
+  <license>TODO</license>
+
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+
+  <export>
+
+  </export>
+</package>
